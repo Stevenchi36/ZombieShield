@@ -1,0 +1,5 @@
+SlowZombie will take 50% health before you kill him from hand to hand
+NormalZombie will take 25% health before you kill him from hand to hand
+QuickZombie will take 15% health before you kill him from hand to hand
+
+Bullets that make full contact take 8 - 9% health
